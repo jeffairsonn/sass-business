@@ -14,7 +14,6 @@ const user = {
 };
 const navigation = [
     { name: 'Accueil', href: '/' },
-    { name: 'Découvrir', href: '#' },
     { name: 'Mon profile', href: '/profile' },
     { name: 'Créer une œuvre', href: '/create' },
 ];
